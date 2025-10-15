@@ -1,0 +1,21 @@
+{
+  "name": "Impulse Medical Service",
+  "short_name": "ImpulseMedical",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFB600",
+  "description": "Distribuidor oficial de Stryker en España. Expertos en Endoscopia, Head & Neck, Medical y Orthopaedics. Soporte técnico y soluciones quirúrgicas de alta calidad.",
+  "icons": [
+    {
+      "src": "/images/logo-impulse.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/logo-impulse.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}

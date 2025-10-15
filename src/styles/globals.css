@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  body { @apply bg-white text-neutral-900 antialiased; font-family: "Poppins", sans-serif; }
+  h1, h2, h3, h4 { @apply font-semibold text-black; }
+  a { @apply text-yellow-500 hover:text-yellow-600 transition-colors; }
+}
+.scroll-stack-card {
+  transition: transform 0.25s ease-out, filter 0.25s ease-out;
+}

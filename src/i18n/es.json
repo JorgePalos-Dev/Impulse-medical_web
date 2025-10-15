@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Representantes oficiales de Stryker",
+    "subtitle": "Especialistas en Endoscopy, Maxilofacial y Medical. Excelencia comercial y soporte hospitalario.",
+    "cta": "Contactar"
+  },
+  "divisions": {
+    "title": "Nuestras Divisiones",
+    "endoscopyTitle": "Endoscopy",
+    "endoscopyDesc": "Tecnología endoscópica avanzada para procedimientos mínimamente invasivos.",
+    "maxTitle": "Maxilofacial",
+    "maxDesc": "Soluciones para cirugía oral y maxilofacial con equipamiento de alta precisión.",
+    "medicalTitle": "Medical",
+    "medicalDesc": "Equipamiento hospitalario y soluciones médicas innovadoras."
+  }
+}
